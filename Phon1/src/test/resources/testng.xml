@@ -3,7 +3,7 @@
 <suite name="Smoky" verbose="1">
     <test name="Nopackage">
         <classes>
-            <class name="com.phonebook.tests.LoginTests"/>
+            <class name="com.tests.LoginTests"/>
         </classes>
     </test>
 </suite>
